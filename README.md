@@ -1,0 +1,1 @@
+This is a repo of our model for accelerated drug discovery using Machine Learning which was our project in the hackathon Algorithm 8.0 conducted in AIKTC, Navi Mumbai. It's an open source project and we only did database finding and preprocessing it overnight, but we will train the model in future for sure and also collaborators are welcome to collaborate.
